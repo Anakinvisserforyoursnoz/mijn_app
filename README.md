@@ -108,21 +108,24 @@ For local testing:
 127.0.0.1
 ```
 
----
+## Screenshots
 
-## Screenshot
+### Calculator
 
 ![Calculator Screenshot](screenshot.png)
-## Chat Application Screenshots
+
+---
 
 ### Chat GUI
 
 ![Chat GUI](Schermafdruk%20van%202026-05-20%2015-15-44.png)
 
+---
+
 ### Server Terminal
 
 ![Server Terminal](Schermafdruk%20van%202026-05-20%2015-15-53.png)
----
+
 
 ## Future Improvements
 
