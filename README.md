@@ -1,54 +1,39 @@
- Mijn Python App
+# Modern PyQt6 Calculator
 
-Mijn eerste Python app gemaakt op Linux Mint.
-
-## Features
-
-- GUI met Tkinter
-- Python 3
-- GitHub repository
-- VS Code development setup
-
-## Starten
-
-```bash
-python3 app.py
-# Moderne PyQt6 Calculator
-
-Een moderne calculator app gemaakt met Python en PyQt6 op Linux Mint.
+A modern calculator application built with Python and PyQt6 on Linux Mint.
 
 ## Features
 
-- Moderne dark mode UI
+- Modern dark mode UI
 - PyQt6 interface
-- Basis berekeningen
-- Mooie knoppen
+- Basic calculations
+- Stylish buttons
 - Responsive layout
-- GitHub versiebeheer
+- GitHub version control
 
-## Installatie
+## Installation
 
-Clone de repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Anakinvisserforyoursnoz/mijn_app.git
 cd mijn_app
 ```
 
-Maak virtual environment:
+Create a virtual environment:
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-Installeer dependencies:
+Install dependencies:
 
 ```bash
 pip install PyQt6
 ```
 
-## Starten
+## Run the Application
 
 ```bash
 python3 calculator.py
@@ -58,6 +43,6 @@ python3 calculator.py
 
 Coming soon.
 
-## Auteur
+## Author
 
 Anakinvisserforyoursnoz
