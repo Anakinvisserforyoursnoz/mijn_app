@@ -46,3 +46,6 @@ python3 calculator.py
 ## Author
 
 Anakinvisserforyoursnoz
+# Modern Python Projects
+
+Modern Python applications developed on Linux Mint by a Dutch Linux enthusiast and open-source developer.
