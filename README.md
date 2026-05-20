@@ -41,7 +41,7 @@ python3 calculator.py
 
 ## Screenshot
 
-Coming soon.
+![Calculator Screenshot](screenshot.png)
 
 ## Author
 
