@@ -141,4 +141,8 @@ For local testing:
 
 ## Author
 
-Anakinvisserforyoursnoz
+LinuxMintDEV 
+
+Built on Linux Mint by a Dutch Linux developer
+
+Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.
